@@ -1,1 +1,1 @@
-# smart-transformer-psa-project
+Proposed and simulated a real-time feedback control system mechanism that constantly tracks the health of a transformer using sensors, micro-controllers to prevent breakdowns, thereby increasing its lifetime and performance.
